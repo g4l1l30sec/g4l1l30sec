@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @g4l1l30sec
 - 👀 I’m interested in ...RedTeam and BlueTeam
-- 🌱 I’m currently learning ...secret OTA
-- 💞️ I’m looking to collaborate on ...Python projects
+- 🌱 I’m currently learning ...(?)
+- 💞️ I’m looking to collaborate on ...NATO SECRET 
 - 📫 How to reach me ...hush hus hush 
 
 <!---
