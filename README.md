@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning ...(?)
 - 💞️ I’m looking to collaborate on ...NATO SECRET 
 - 📫 How to reach me ...hush hus hush 
+- facebook: ola
 
 <!---
 g4l1l30sec/g4l1l30sec is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
